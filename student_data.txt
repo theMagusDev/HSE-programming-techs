@@ -1,2 +1,2 @@
-Yuriy Vasilievich Magus, CST-6
-Linear algebra
+Yuriy Magus, CST-369
+Algorithms and data structures
