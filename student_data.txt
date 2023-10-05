@@ -1,2 +1,2 @@
-Yuriy Magus, CST-6
-Programming techs
+Yuriy Magus, CST-369
+Algorithms and data structures
